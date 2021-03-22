@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # sunrise, "dark", "aqua", "air" ,"plum", "min
 locale                   : "ko"
 title                    : "C Programming 💻"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Programming My Life"
 name                     : "임민서"
 description              : "시스템 프로그램을 위한 C언어💻"
 url                      : "https://watercolor0422.github.io"
