@@ -6,6 +6,8 @@ toc_sticky: true
 toc_label: "페이지 주요 목차"
 ---
 
+다음은 if 조건문을 활용한 문제를 해결한 코드이다.
+
 ### 01. 3개의 터널 통과
 
 ![im1](/assets/images/im1.jpg)
@@ -34,10 +36,10 @@ int main() {
 
 ### 02. 사주보기
 
-![im2](/assets/images/.jpg)
+![im2](/assets/images/사주.JPG)
 ~~~c
 #include <stdio.h>
- int main(void)
+ int main()
  {int year, month, day, res;
   printf("당신의 사주를 봐드립니다.\n");
   printf("연도, 월, 일을 차례대로 입력하세요: ");
@@ -53,10 +55,10 @@ int main() {
   
   ### 03. 이 달은 며칠까지 있을까?
   
-  ![im3](/assets/images/이 달 며칠.jpg)
+  ![im3](/assets/images/이 달 며칠.JPG)
   ~~~c
   #include <stdio.h>
-int main(void) 
+int main() 
  {int a, b;
   printf("연도와 월을 입력하세요: ");
   scanf("%d%d", &a, &b);
@@ -77,11 +79,11 @@ int main(void)
 
 ### 04. 30분 전
 
-![im4](/assets/images/30.jpg)
+![im4](/assets/images/30.JPG)
 ~~~c
 #include <stdio.h>
  
-int main(void) {
+int main() {
  int hour, min;
  printf("시간과 분을 입력하세요: ");
  scanf("%d%d", &hour, &min);
