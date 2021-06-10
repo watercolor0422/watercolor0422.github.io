@@ -4,6 +4,7 @@ title: "Fourth, 조건문"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
+categories: 형성평가
 ---
 
 다음은 if 조건문을 활용한 문제를 해결한 코드이다.
