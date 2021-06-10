@@ -34,6 +34,7 @@ int main() {
 
 ### 02. 사주보기
 
+![im2](/assets/images/.jpg)
 ~~~c
 #include <stdio.h>
  int main(void)
@@ -52,6 +53,7 @@ int main() {
   
   ### 03. 이 달은 며칠까지 있을까?
   
+  ![im3](/assets/images/이 달 며칠.jpg)
   ~~~c
   #include <stdio.h>
 int main(void) 
@@ -75,6 +77,7 @@ int main(void)
 
 ### 04. 30분 전
 
+![im4](/assets/images/30.jpg)
 ~~~c
 #include <stdio.h>
  
