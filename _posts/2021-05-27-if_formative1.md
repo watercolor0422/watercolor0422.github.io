@@ -55,7 +55,7 @@ int main() {
   
   ### 03. 이 달은 며칠까지 있을까?
   
-  ![im3](/assets/images/이 달 며칠.JPG)
+  ![im3](/assets/images/im3.JPG)
   ~~~c
   #include <stdio.h>
 int main() 
