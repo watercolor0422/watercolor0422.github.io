@@ -1,13 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: https://watercolor0422.github.io
-  - title: "About"
-    url: /about/
-  - title: "Visit my blog"
-    url: https://blog.naver.com/ew415
-   - title: "Sitemap"
-     url: /sitemap/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
