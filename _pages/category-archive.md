@@ -1,5 +1,5 @@
 ---
-title: "문법 개념"
+title: "CATEGORIES"
 layout: categories
 permalink: /categories/
 author_profile: true
