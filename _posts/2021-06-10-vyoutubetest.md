@@ -4,6 +4,7 @@ title: "Fifth, 유튜브 동영상 삽입하기"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
+categories: IT정보
 ---
 
 ### 01. 프로그래밍을 배워야 하는 이유는?
